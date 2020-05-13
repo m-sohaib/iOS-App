@@ -54,7 +54,7 @@ class ViewController: UIViewController {
         }else if(i == 11){
             lionSound.play()
         }
-    } // end of animal sound fucntion
+    } // end of animal sound function
     
     // Animal Name Function
     func setName(){
@@ -83,7 +83,7 @@ class ViewController: UIViewController {
         }else{
             appName.text = "Lion"
         }
-    }//End of Animal Name Fucntion
+    }//End of Animal Name Function
     
     //when start buttion is touched
     @IBAction func startBTN(_ sender: Any) {
