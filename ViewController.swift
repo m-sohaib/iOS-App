@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  Guess That Animal
 //
-//  Created by msohaib on 10/25/18.
-//  Copyright © 2018 msohaib. All rights reserved.
+//
 /*
  This App is developed as an educational project. Any copyrighted materials are included in accordance to the multimedia fair use guidelines, a notice should be added and states that
  “certain materials are included under the fair use exemption of the U.S. Copyright Law and have been
